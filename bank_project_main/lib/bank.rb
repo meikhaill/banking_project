@@ -1,3 +1,6 @@
+
+require 'minitest'
+
 class Bank
   attr_reader :name
 
